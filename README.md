@@ -10,6 +10,7 @@ python train.py
 ```
 
 Recognition:
+
 for recognition download only pretrained model(results.7z). then run:
 
 ```
