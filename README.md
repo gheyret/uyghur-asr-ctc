@@ -29,4 +29,5 @@ test2.wav -> bu öy eslide xotunining xush tebessumi oghlining omaq külküsi bi
 
 This project using 
 
-**A free Uyghur speech database Released by CSLT@Tsinghua University & Xinjiang University(http://www.openslr.org/22/)
+**A free Uyghur speech database Released by CSLT@Tsinghua University & Xinjiang University(http://www.openslr.org/22/)**
+
