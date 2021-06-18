@@ -3,7 +3,7 @@ Training:
 
 this model using CTC loss for training.
 
-Download pretrained model and dataset from https://github.com/gheyret/uyghur-asr-ctc/releases.
+Download [pretrained model](https://github.com/gheyret/uyghur-asr-ctc/releases/download/data/results.7z) and [dataset](https://github.com/gheyret/uyghur-asr-ctc/releases/download/data/thuyg20_data.7z).
 unzip results.7z and thuyg20_data.7z to the same folder where python source files located. then run:
 ```
 python train.py
