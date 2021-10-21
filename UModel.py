@@ -95,6 +95,8 @@ class UModel(nn.Module):
 
     def _load(self, load_best=False):
         path = None
+        self.trained_epochs = 0
+        self.best_cer = 1.0
         if load_best == True and os.path.exists(self.checkpoint + '_best.pth'):
             path = path = self.checkpoint + '_best.pth'
         elif os.path.exists(self.checkpoint + '_last.pth'):
